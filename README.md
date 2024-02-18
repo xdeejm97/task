@@ -42,6 +42,6 @@ Build project
 Start the server
 
 ```bash
-  mvn spring:boot.run
+  mvn spring-boot:run
 ```
 
